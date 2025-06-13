@@ -1,4 +1,4 @@
-# Research-project-database_
+# Research-project-database_1
 # 🗂️ Database Project – Project Management System
 
 This project represents a **simple relational database schema** for managing projects, funding agencies, employees, and their relationships within an organization. The schema is designed to model real-world project assignment and supervision workflows.
